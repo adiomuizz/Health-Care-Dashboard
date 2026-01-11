@@ -71,6 +71,7 @@ The 100% stacked bar chart provides insight into how care is delivered for speci
 <hi> 🌐 Online Report </hi>
 You can view and interact with the live version of the Dashboard here: 
 
-https://app.powerbi.com/view?r=eyJrIjoiZjFmYTBjMGEtZTQ0My00ZTZlLTg0NWMtNjdhNzIxZGI1OTVhIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9
+🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFmYTBjMGEtZTQ0My00ZTZlLTg0NWMtNjdhNzIxZGI1OTVhIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9)
+
 
 
