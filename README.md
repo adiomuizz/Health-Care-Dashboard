@@ -64,6 +64,7 @@ The 100% stacked bar chart provides insight into how care is delivered for speci
 - Cross-Filtering: Click on any department (e.g., Orthopedics) to see how the Diagnosis and Procedure charts update to reflect that specific department's data.
 
 <hi> 🖼️ Screenshots </h1> 
+
 ![Dashboard Overview](./assets/dashboard-overview.png)
 
 ![Department Billing](./assets/billing-department.png)
