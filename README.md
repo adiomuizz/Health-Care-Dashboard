@@ -56,11 +56,18 @@ The 100% stacked bar chart provides insight into how care is delivered for speci
 - Departmental Focus: Orthopedics is the "Anchor Department." Ensuring high-quality staffing and equipment in this area is critical for maintaining the current revenue stream.
 
 
-  <h1> 📂 How to Use </h1>
+  <h1> 📂 How to Use the Dashboard </h1>
 - Year/Race Filters: Use the top-right slicers to segment the data by demographic or fiscal period.
 
 - Location Filter: Use the left-hand dropdown to view billing performance for specific clinic or hospital branches.
 
 - Cross-Filtering: Click on any department (e.g., Orthopedics) to see how the Diagnosis and Procedure charts update to reflect that specific department's data.
+
+<hi> 🖼️ Screenshots </h1> 
+![Dashboard Overview](./assets/dashboard-overview.png)
+
+![Department Billing](./assets/billing-department.png)
+
+![Diagnostic Billing](./assets/billing-diagnostic.png)
 
 
