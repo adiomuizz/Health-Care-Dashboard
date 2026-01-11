@@ -7,9 +7,9 @@ This project features an interactive Executive Dashboard designed for healthcare
 
 
 🛠️ **Tech Stack***
-Data Visualization: Power BI  (indicated by the slicers and layout)
+      Data Visualization: Power BI  (indicated by the slicers and layout)
 
-Data Source: Healthcare Management System (Xls)
+      Data Source: Healthcare Management System (Xls)
 
-Currency: GBP (£)
+      Currency: GBP (£)
 
