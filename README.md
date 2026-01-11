@@ -37,12 +37,30 @@ The horizontal bar chart compares departmental performance:
 - Pediatrics shows the lowest billing volume at 13.07% (£553K).
 
 - Cardiology and General Surgery maintain a close middle-ground, both hovering around 22-23%.
+  
 
 <h2> 4. Diagnosis and Service Type (The "Care Mix") </h2>
 The 100% stacked bar chart provides insight into how care is delivered for specific conditions:
 
 - Outpatient care (Purple) is the dominant service type across all major diagnoses (Hypertension, Appendicitis, Migraine), consistently exceeding 50% for most.
-
+  
 - Emergency services (Black) are most frequently utilized for Asthma (29.9%) and Appendicitis (28.2%), highlighting the acute nature of these conditions.
 
 - Inpatient care (Pink) is most prevalent in Fracture cases (32.45%), likely due to surgical requirements.
+
+  <h1> 🚀 Key Takeaways </h1>
+- Revenue Concentration: Over 50% of procedural revenue comes from X-rays and CT scans. Investing in imaging throughput could further increase margins.
+
+- Out-of-Pocket Sensitivity: With €2.0M in out-of-pocket costs, the provider is highly susceptible to patient credit risk and collection delays.
+
+- Departmental Focus: Orthopedics is the "Anchor Department." Ensuring high-quality staffing and equipment in this area is critical for maintaining the current revenue stream.
+
+
+  <h1> 📂 How to Use </h1>
+- Year/Race Filters: Use the top-right slicers to segment the data by demographic or fiscal period.
+
+- Location Filter: Use the left-hand dropdown to view billing performance for specific clinic or hospital branches.
+
+- Cross-Filtering: Click on any department (e.g., Orthopedics) to see how the Diagnosis and Procedure charts update to reflect that specific department's data.
+
+
